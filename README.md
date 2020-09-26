@@ -1,2 +1,2 @@
 # GryphonRouterTracker
-For MacOS.
+For MacOS. Version 0.1.
